@@ -17,6 +17,8 @@ syntax: glob
 # idea
 .idea
 *.iml
+nb-configuration.xml
+nbactions.xml
 
 # building
 target
@@ -39,3 +41,5 @@ build.log
 
 #SHITTY output not in target directory
 build.log
+*.swp
+
